@@ -1,4 +1,5 @@
 # Koordinate 1 (47.0545636, 9.8582795)
 # Koordinate 2 (47.0568791, 9.8593960)
 # Koordinate 3 (47.0617231, 9.8656633)
-# Koordinate 4
+# Koordinate 4 (47.0605345, 9.8649941)
+ 
